@@ -1,16 +1,15 @@
-# crepes
+# Crêpes-to-Go (a Flutter mobile app client that makes use of the Crêpes-to-Go DotNet API)
 
-A new Flutter project.
+## PURPOSE
+The project demonstrates use of Flutter for mobile app development, connected to an external .NET API and a Microsoft SQL database
 
-## Getting Started
+## Home Screen - Crêpe Menu
+![alt text](https://nateflake.com/wp-content/uploads/2022/09/crepes-main.png)
 
-This project is a starting point for a Flutter application.
+## Menu Item Detail Page
+![alt text](https://nateflake.com/wp-content/uploads/2022/09/crepes-detail.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Cart Page
+![alt text](https://nateflake.com/wp-content/uploads/2022/09/crepes-cart.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
